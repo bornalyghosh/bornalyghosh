@@ -43,18 +43,19 @@
 ---
 
 ### 📌 Featured Projects
+**[E-commerce Customer Behavior Analysis](https://github.com/bornalyghosh/Customer-Behavior-Analysis-/tree/main)**
+Exploratory data analysis of e-commerce customer behavior, uncovering purchase patterns and satisfaction drivers using Python.
+`Python` `Pandas` `Seaborn` `Matplotlib`
 
-**[Omni Retail – Sales Performance & Customer Insights Dashboard](#)**
+**[Omni Retail – Sales Performance & Customer Insights Dashboard](https://github.com/bornalyghosh/Omni-Retail)**
 Cleaned and transformed raw retail data, wrote advanced SQL queries to analyze revenue trends and customer behavior, and built an interactive Power BI dashboard tracking KPIs like revenue, returns, and customer segments.
 `PostgreSQL` `Power BI`
 
-**[HR Attrition Dashboard](#)**
+**[HR Attrition Dashboard](https://github.com/bornalyghosh/HR-Attrition-Dashboard)**
 Analyzed employee attrition trends using Pivot Tables and KPI metrics, with an interactive Excel dashboard featuring charts and slicers for HR insights.
 `Excel`
 
-**[Voice Assistant – Python](#)**
-A desktop voice assistant capable of executing basic commands using NLP libraries (`speechrecognition`, `pyttsx3`, `wikipedia`, `pyjokes`).
-`Python`
+
 
 
 
